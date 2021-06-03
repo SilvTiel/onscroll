@@ -1,0 +1,13 @@
+.head{
+    padding:50px 150px;
+}
+
+.kopje{
+    height:350px;
+    width:auto;
+    background-color:cornflowerblue;
+    margin-bottom:100px;
+    border-radius:25px;
+    padding:15px;
+    position:flex;
+}
